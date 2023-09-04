@@ -7,7 +7,7 @@ import (
 	"github.com/chromedp/cdproto/target"
 )
 
-func CanvasExample() {
+func LoginExample() {
 	proc := core.NewProcedures()
 
 	proc.Actions = []core.Action{
