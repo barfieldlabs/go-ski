@@ -1,5 +1,9 @@
 # Go-Ski
 
+<img src="https://github.com/barfieldlabs/go-ski/assets/73442540/54fc642f-63a1-4f81-afa7-1754822b436b" width="200" height="200">
+
+---
+
 ## Overview
 
 Go-Ski is a web scraping library built in Go. It aims to provide a simple yet powerful way to perform various web scraping tasks. The library is built on top of the Chrome DevTools Protocol, using the `chromedp` package for the heavy lifting.
