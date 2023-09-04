@@ -16,15 +16,15 @@ Go-Ski is a web scraping library built in Go. It aims to provide a simple yet po
 
 To install Go-Ski, run the following command:
 
-\`\`\`bash
+```bash
 go get github.com/barfieldlabs/go-ski
-\`\`\`
+```
 
 ## Usage
 
 Here's a simple example that demonstrates how to perform a click and form submission:
 
-\`\`\`go
+```go
 package main
 
 import (
@@ -62,7 +62,7 @@ var initialTargets []\*target.Info
     log.Println("Successfully completed web scraping.")
 
 }
-\`\`\`
+```
 
 ## Contributing
 
