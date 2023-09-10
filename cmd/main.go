@@ -10,7 +10,7 @@ import (
 
 func main() {
 	// Initialize core procedures
-	proc := core.NewProcedures()
+	proc := core.NewProcedures(true)
 
 	// Create a context
 	ctx := context.Background()
